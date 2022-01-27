@@ -12,6 +12,8 @@
     "@vue/babel-plugin-jsx": "^1.1.1",
     "axios": "^0.24.0",
     "dayjs": "^1.10.7",
+    "highlight.js": "^11.4.0",
+    "naive-ui": "^2.24.6",
     "pinia": "^2.0.9",
     "sass": "^1.48.0",
     "vue": "^3.2.25",
